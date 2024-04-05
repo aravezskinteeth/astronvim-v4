@@ -7,4 +7,6 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
+  -- nvchad statusline
+  { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
 }
