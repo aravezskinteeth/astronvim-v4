@@ -9,4 +9,6 @@ return {
   -- import/override with your plugins folder
   -- nvchad statusline
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
+  -- nvchad telescope theme
+  { import = "astrocommunity.recipes.telescope-nvchad-theme" },
 }
