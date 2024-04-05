@@ -11,4 +11,6 @@ return {
   { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   -- nvchad telescope theme
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
+  -- import catppuccin
+  { import = "astrocommunity.colorscheme.catppuccin" },
 }
