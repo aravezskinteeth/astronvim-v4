@@ -1,8 +1,13 @@
-# AstroNvim Template
+<h1 align="center">AstroNvim User Config</h1>
 
-**NOTE:** This is for AstroNvim v4+
+<div align="center">
+<img src="https://img.shields.io/github/last-commit/aravezskinteeth/astronvim-v4?style=for-the-badge&logo=github&color=F5C2E7&logoColor=CDD6F4&labelColor=313244"/>
+<img src="https://img.shields.io/github/repo-size/aravezskinteeth/astronvim-v4?style=for-the-badge&logo=github&color=CBA6F7&logoColor=CDD6F4&labelColor=313244"/>
+<img src="https://img.shields.io/github/languages/top/aravezskinteeth/astronvim-v4?style=for-the-badge&logo=lua&color=94E2D5&logoColor=CDD6F4&labelColor=313244"/>
+</div>
+<br>
 
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
+> **Note**: This is for Astronvim v.4.0
 
 ## 🛠️ Installation
 
